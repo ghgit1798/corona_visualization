@@ -3,7 +3,7 @@ corona data visualization || dacon competiton
 
 코로나 데이터 분석을 통한 인사이트 도출
 
-stacks
+stacks <br>
 python, pandas, numpy, pyecharts, tableau
 
 # Topics
